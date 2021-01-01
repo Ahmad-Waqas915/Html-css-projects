@@ -1,0 +1,36 @@
+form ,.form{
+    border: 2px solid rgb(240, 84, 27);
+    width: 50%;
+    padding-left: 20%;
+    margin-top: 200px;
+    margin-left: 200px;
+    background-color: sandybrown;
+}
+h1{
+    border: 2px solid black;
+    width: 70%;
+    padding: 2% 0% 2% 5%;
+    background: #42d4ee;
+    
+}
+div{
+    border: 1px dotted black;
+    width: 50%;
+    padding-left: 40px;
+    margin-top: 5px;
+}
+button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+.h1{
+    border: 2px outset  #0088dd;
+    width: 70%;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.color2pag{
+    background-color: silver;
+}

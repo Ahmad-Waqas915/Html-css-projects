@@ -1,0 +1,41 @@
+td
+{
+    width: auto;
+    border: 1px solid black;
+}
+.NoBorder{
+    border: none;
+}
+#heading{
+    background-color :yellow;
+}
+.sblockj{
+    background-color: blueviolet;
+}
+.sblockb{
+    background-color: lightblue;
+}
+.dblockc{
+    background-color:#ffe39b;
+}
+.nobalgass{
+    background-color: rgb(59, 167, 235);
+}
+.fblock{
+    background-color: #E7E7E7;
+}
+.pblockseegreen{
+    background-color: seagreen;
+}
+.pblockb{
+    background-color: #F3A852;
+}
+.pblockp{
+    background-color:  #E579D0 ;
+}
+.pblocka{
+    background-color: #F0D6B6;
+}
+.fblock{
+    margin-top: 13px;
+}
